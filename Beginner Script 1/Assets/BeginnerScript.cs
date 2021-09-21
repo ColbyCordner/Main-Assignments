@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BeginnerScript : MonoBehaviour
 {
-    void Update(if)
+    void Update()
     {
         if (Input.GetKeyDown(KeyCode.R))
         {
